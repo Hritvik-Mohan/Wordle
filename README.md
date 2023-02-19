@@ -1,4 +1,4 @@
-# Wordle
+# Wordle 🔠
 
 Wordle is a web-based word guessing game built using ReactJS and JavaScript. The game is designed to test your vocabulary and guessing skills by trying to guess a hidden word using a limited number of guesses.
 
