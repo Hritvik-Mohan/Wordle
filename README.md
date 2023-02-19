@@ -10,3 +10,27 @@ Wordle is a web-based word guessing game built using ReactJS and JavaScript. The
 4. If the letter is in the hidden word, it will appear in the correct square(s). If the letter is not in the hidden word, you will lose a guess.
 5. You have six guesses to correctly guess the hidden word. If you are unable to guess the word in six attempts, you lose the game.
 6. If you correctly guess the hidden word within six attempts, you win the game!
+
+
+## Deployed Application
+
+The deployed version of the application can be accessed at: https://hm-wordle.netlify.app/
+
+## Getting Started ✅
+
+To get started with the application, follow these steps:
+
+1. Clone the repository.
+```
+git clone https://github.com/Hritvik-Mohan/Wordle
+```
+
+2. Install the necessary dependencies.
+```
+npm i
+```
+
+3. Run the application.
+```
+npm run dev
+```
